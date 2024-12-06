@@ -4,11 +4,19 @@
 ### 1.1. Funciones y Álgebra Básica
 - Concepto de función, dominio y rango
 - Tipos de funciones (lineales, cuadráticas, exponenciales, logarítmicas)
-- Representación en el plano cartesiano
-- Operaciones básicas con polinomios
-- Números complejos: fundamentos e interpretación geométrica
+- Representación gráfica en el plano cartesiano
 
-### 1.2. Sistemas de Ecuaciones e Interpretación Geométrica
+### 1.2. Geometría Analítica
+  - Plano cartesiano
+  - Distancia entre dos puntos
+  - Recta: ecuación punto-pendiente, pendiente, intersección con los ejes
+  - Circunferencia: ecuación general y canónica
+
+### 1.3. Polinomios
+- Definición y operaciones básicas
+- Raíces y factorización
+
+### 1.4. Sistemas de Ecuaciones e Interpretación Geométrica
 - Sistemas de ecuaciones lineales
 - Métodos de resolución (sustitución, eliminación, métodos matriciales)
 - Interpretación geométrica
@@ -17,7 +25,7 @@
   - Dimensiones superiores: hiperplanos
 - Aplicaciones en modelos de machine learning
 
-### 1.3. Trigonometría
+### 1.5. Trigonometría
 - Funciones trigonométricas básicas (seno, coseno, tangente)
 - Radianes vs grados
 - Gráficas de funciones
