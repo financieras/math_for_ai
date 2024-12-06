@@ -16,10 +16,15 @@
 ### 1.3. Polinomios
 - Definición y operaciones básicas
 - Raíces y factorización
+- Inecuaciones
 
 ### 1.4. Sistemas de Ecuaciones
 - Sistemas de ecuaciones lineales
-- Métodos de resolución (sustitución, eliminación, métodos matriciales)
+- Métodos de resolución (igualación, sustitución, reducción)
+- Métodos matriciales:
+  - Método de Gauss
+  - Método de Gauss-Jordan
+  - Regla de Cramer
 - Interpretación geométrica
   - Dos ecuaciones: intersección de rectas
   - Tres ecuaciones: intersección de planos
@@ -29,7 +34,7 @@
 ### 1.5. Trigonometría
 - Funciones trigonométricas básicas (seno, coseno, tangente)
 - Radianes vs grados
-- Gráficas de funciones
+- Gráficas de funciones trigonométricas
 - Funciones trigonométricas inversas
 - Funciones hiperbólicas (tanh)
 - Aplicaciones en funciones de activación de redes neuronales
@@ -40,7 +45,8 @@
 - Definición y representación gráfica
 - Operaciones suma y resta
 - Multiplicación por escalar
-- Norma de un vector
+- Norma de un vector y distancia
+- Normalización
 - Producto escala (producto punto: "dot product")
 - Producto vectorial (producto cruz)
 
@@ -50,8 +56,9 @@
   - Producto por escalar
   - Suma matricial
   - Multiplicación de matrices
-- Matrices especiales (identidad, inversa, transpuesta)
+- Matrices especiales (identidad, transpuesta)
 - Determinantes
+- Matriz inversa
 - Resolución de sistemas lineales mediante matrices
 
 ### 2.3. Espacios vectoriales
@@ -63,23 +70,24 @@
 ### 2.4. Transformaciones Lineales
 - Definición y propiedades
 - Representación matricial
+- Autovalores y autovectores
 - Cambio de base
 - Aplicaciones en redes neuronales
+- Aplicaciones en reducción de dimensionalidad (PCA)
 
 
 ## 3. Cálculo
 ### 3.1. Funciones
 - Continuidad
-- Límites
-- Asíntotas
+- Límites, asíntotas
 - Funciones de varias variables
 
 ### 3.2. Cálculo Diferencial
 - Concepto de Derivada y su interpretación
 - Reglas de derivación
-- Regla de la cadena para funciones compuestas
+- Derivadas de funciones compuestas (regla de la cadena)
 - Derivadas parciales
-- Gradientes y derivadas direccionales
+- Gradiente y derivadas direccionales
 - Aplicaciones en optimización
 
 ### 3.3. Optimización
@@ -87,39 +95,41 @@
 - Puntos de inflexión
 - Concavidad y convexidad
 - Descenso del gradiente
-- Optimización con restricciones
-- Aplicaciones en entrenamiento de modelos
+- Optimización con restricciones (Método de Lagrange)
+- Aplicaciones en entrenamiento de modelos: funciones de costo
 
 ### 3.4. Cálculo integral
 - Concepto de integral
 - Integrales definidas e indefinidas
 - Teorema fundamental del cálculo
+- Técnicas de integración
 - Integrales múltiples
 
 
 ## 4. Estadística y Probabilidad
 ### 4.1. Estadística Descriptiva
-- Medidas de tendencia central
-  - Media
-  - Mediana
-  - Moda
-- Medidas de dispersión
-  - Varianza
-  - Desviación estándar
+- Tipos de variables: cualitativas y cuantitativas3
+- Distribución de frecuencias y tablas de frecuencias15
+- Medidas de tendencia central: media, mediana y moda13
+- Medidas de dispersión: rango, desviación estándar y varianza13
+- Medidas de posición: percentiles y cuartiles
+- Representaciones gráficas: histogramas, gráficos de barras
 
 ### 4.2. Fundamentos de Probabilidad
 - Concepto de probabilidad
+- Espacios muestrales y eventos
 - Probabilidad condicional
 - Teorema de Bayes
+- Independencia de eventos
 
 ### 4.3. Distribuciones de probabilidad 
-- Variables aleatorias
-- Normal
-- Binomial
-- Poisson
+- Variables aleatorias discretas y contínuas
+- Distribuciones: Uniforme, Normal, Binomial, Poisson, Exponencial
+- Funciones de densidad y distribución
+- Esperanza matemática y varianza
 
 ### 4.4. Inferencia
-- Muestreo y estimación
+- Muestreo y estimación de parámetros
 - Pruebas de hipótesis
 - Intervalos de confianza
 - Pruebas de hipótesis
@@ -142,6 +152,8 @@
 - Interpolación
 - Análisis de errores
 - Consideraciones computacionales
+- Descenso de gradiente estocástico
+- Algoritmos de optimización avanzados (Adam, RMSprop)
 
 ### 5.3. Teoría de Grafos
 - Conceptos básicos
@@ -152,3 +164,12 @@
 - Operaciones con tensores
 - Cálculo tensorial
 - Aplicaciones en frameworks de deep learning
+
+### 5.5. Geometría Computacional
+- Conceptos básicos
+- Aplicaciones en reconocimiento de patrones
+- Visión por computadora
+
+### 5.6. Álgebra Lineal Computacional**
+- Descomposición en valores singulares (SVD)
+- Análisis de componentes principales (PCA)
