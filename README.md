@@ -18,20 +18,7 @@
 - Raíces y factorización
 - Inecuaciones
 
-### 1.4. Sistemas de Ecuaciones
-- Sistemas de ecuaciones lineales
-- Métodos de resolución (igualación, sustitución, reducción)
-- Métodos matriciales:
-  - Método de Gauss
-  - Método de Gauss-Jordan
-  - Regla de Cramer
-- Interpretación geométrica
-  - Dos ecuaciones: intersección de rectas
-  - Tres ecuaciones: intersección de planos
-  - Dimensiones superiores: hiperplanos
-- Aplicaciones en modelos de machine learning
-
-### 1.5. Trigonometría
+### 1.4. Trigonometría
 - Funciones trigonométricas básicas (seno, coseno, tangente)
 - Radianes vs grados
 - Gráficas de funciones trigonométricas
@@ -58,16 +45,29 @@
   - Multiplicación de matrices
 - Matrices especiales (identidad, transpuesta)
 - Determinantes
+- Regla de Cramer
 - Matriz inversa
 - Resolución de sistemas lineales mediante matrices
 
-### 2.3. Espacios vectoriales
+### 2.3. Sistemas de Ecuaciones
+- Sistemas de ecuaciones lineales
+- Métodos de resolución (igualación, sustitución, reducción)
+- Métodos matriciales:
+  - Método de Gauss
+  - Método de Gauss-Jordan
+- Interpretación geométrica
+  - Dos ecuaciones: intersección de rectas
+  - Tres ecuaciones: intersección de planos
+  - Dimensiones superiores: hiperplanos
+- Aplicaciones en modelos de machine learning
+
+### 2.4. Espacios vectoriales
 - Definición
 - Propiedades
 - Bases y dimensiones
 - Subespacios
 
-### 2.4. Transformaciones Lineales
+### 2.5. Transformaciones Lineales
 - Definición y propiedades
 - Representación matricial
 - Autovalores y autovectores
@@ -143,17 +143,15 @@
 ## 5. Temas Avanzados
 ### 5.1. Métodos de Optimización
 - Variaciones del descenso del gradiente
-- Optimización estocástica
+- Descenso de gradiente estocástico
 - Algoritmos modernos de optimización
-- Optimización de redes neuronales
+- Algoritmos de optimización avanzados (Adam, RMSprop)
 
 ### 5.2. Métodos Numéricos
 - Integración numérica
 - Interpolación
 - Análisis de errores
 - Consideraciones computacionales
-- Descenso de gradiente estocástico
-- Algoritmos de optimización avanzados (Adam, RMSprop)
 
 ### 5.3. Teoría de Grafos
 - Conceptos básicos
@@ -170,6 +168,69 @@
 - Aplicaciones en reconocimiento de patrones
 - Visión por computadora
 
-### 5.6. Álgebra Lineal Computacional**
+### 5.6. Álgebra Lineal Computacional
 - Descomposición en valores singulares (SVD)
 - Análisis de componentes principales (PCA)
+
+
+
+
+# Matemáticas para Inteligencia Artificial (Versión Reducida)
+
+## 1. Álgebra Lineal Fundamental
+### 1.1. Vectores
+- Definición y operaciones básicas
+- Producto escalar y norma
+- Normalización
+- Aplicaciones en IA: representación de datos y características
+
+### 1.2. Matrices
+- Operaciones básicas
+- Multiplicación matricial
+- Matrices especiales (identidad, transpuesta)
+- Aplicaciones: transformaciones de datos y operaciones en capas neuronales
+
+### 1.3. Sistemas de Ecuaciones Lineales
+- Métodos de resolución básicos
+- Método de Gauss
+- Aplicaciones en modelos lineales
+
+## 2. Cálculo para Optimización
+### 2.1. Derivadas
+- Concepto y reglas básicas
+- Derivadas parciales
+- Gradiente
+- Regla de la cadena
+- Aplicación directa al descenso del gradiente
+
+### 2.2. Optimización
+- Extremos locales y globales
+- Descenso del gradiente
+- Aplicaciones en entrenamiento de modelos
+
+## 3. Probabilidad y Estadística
+### 3.1. Estadística Descriptiva
+- Medidas de tendencia central y dispersión
+- Visualización de datos
+- Aplicaciones en análisis exploratorio de datos
+
+### 3.2. Probabilidad Básica
+- Conceptos fundamentales
+- Probabilidad condicional
+- Teorema de Bayes
+- Aplicaciones en clasificación y toma de decisiones
+
+### 3.3. Distribuciones de Probabilidad
+- Distribución normal
+- Distribución binomial
+- Aplicaciones en modelado probabilístico
+
+## 4. Temas Esenciales para Machine Learning
+### 4.1. Métodos Numéricos Básicos
+- Descenso del gradiente estocástico
+- Optimización básica para redes neuronales
+
+### 4.2. Funciones de Activación
+- Funciones lineales y no lineales
+- Sigmoid, ReLU, tanh
+- Propiedades y usos en redes neuronales
