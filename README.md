@@ -2,7 +2,7 @@
 
 
 ## 1. Fundamentos Matemáticos
-### 1.1. Funciones y Álgebra Básica
+### 1.1. Funciones
 - Concepto de función, dominio y rango
 - Tipos de funciones (lineales, cuadráticas, exponenciales, logarítmicas)
 - Representación gráfica en el plano cartesiano
