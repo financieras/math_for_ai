@@ -108,10 +108,10 @@
 
 ## 4. Estadística y Probabilidad
 ### 4.1. Estadística Descriptiva
-- Tipos de variables: cualitativas y cuantitativas3
-- Distribución de frecuencias y tablas de frecuencias15
-- Medidas de tendencia central: media, mediana y moda13
-- Medidas de dispersión: rango, desviación estándar y varianza13
+- Tipos de variables: cualitativas y cuantitativas
+- Distribución de frecuencias y tablas de frecuencias
+- Medidas de tendencia central: media, mediana y moda
+- Medidas de dispersión: rango, desviación estándar y varianza
 - Medidas de posición: percentiles y cuartiles
 - Representaciones gráficas: histogramas, gráficos de barras
 
