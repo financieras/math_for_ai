@@ -1,0 +1,8 @@
+numpy           # trabaja con álgebra lineal, arrays, matrices multidimensionales, estadística, ...
+pandas          # manipulación, análisis y visualización de datos
+tabulate        # permite crear tablas bien formateadas
+seaborn         # mejora los gráficos que hace Matplotlib
+scipy           # proporciona algoritmos para computación científica (álgebra lineal, ...)
+ipywidgets      # crear interfaces de usuario interactivas en Jupyter Notebooks
+jupyterlab      # entorno de desarrollo en web para notebooks, código, datos y visualizaciones
+sympy
