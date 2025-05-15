@@ -3,7 +3,7 @@
 - [Hands-on Machine Learning with Scikit-Learn, Keras, and TensorFlow](https://shashwatwork.github.io/assets/files/ml_ebook.pdf)
 - [A First Course in Machine Learning](https://raw.githubusercontent.com/wwkenwong/book/master/Simon%20Rogers%2C%20Mark%20Girolami%20A%20First%20Course%20in%20Machine%20Learning.pdf)
 ## Vídeos 
-- [Essence of linear algebra]()
+- [Essence of linear algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
 - [Essence of calculus](https://www.youtube.com/playlist?list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr)
 - [Neural networks](https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi)
 - [Deep Learning con Python y PyTorch](https://www.youtube.com/playlist?list=PLWzLQn_hxe6ZlC9-YMt3nN0Eo-ZpOJuXd)
@@ -14,3 +14,5 @@
 - [Neural Networks: Zero to Hero - Andrej Karpathy](https://www.youtube.com/playlist?list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ)
 ## Otros recursos
 - [Materiales para los cursos «Programación de inteligencia artificial» y «Sistemas de aprendizaje automático»](https://programamos.es/materiales-para-los-cursos-programacion-de-ia-y-sistemas-de-aprendizaje-automatico/)
+- [GitHub: machine-learning-resources](https://github.com/datascienceid/machine-learning-resources)
+- [27 Best Resources to Study Machine Learning](https://www.kaggle.com/discussions/general/196686)
