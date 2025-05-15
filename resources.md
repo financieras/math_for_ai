@@ -12,3 +12,5 @@
 - [Deep Learning: Fundamentos](https://www.youtube.com/playlist?list=PL9E7H1rzXKFL02ncBNpf1WfcDoYILDrV0)
 - [Machine Learning: Fundamentos](https://www.youtube.com/playlist?list=PL9E7H1rzXKFJHlYRejG00JfQzlybZfueA)
 - [Neural Networks: Zero to Hero - Andrej Karpathy](https://www.youtube.com/playlist?list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ)
+## Otros recursos
+- [Materiales para los cursos «Programación de inteligencia artificial» y «Sistemas de aprendizaje automático»](https://programamos.es/materiales-para-los-cursos-programacion-de-ia-y-sistemas-de-aprendizaje-automatico/)
